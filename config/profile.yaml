@@ -1,0 +1,215 @@
+candidate:
+  name: "Aarav Vineet Shah"
+  email: "shah.aarav.175@gmail.com"
+
+education:
+  degree: "Bachelor of Technology"
+  field: "Computer Science and Engineering"
+  university: "Vellore Institute of Technology"
+  campus: "Chennai"
+  graduation_year: 2027
+  cgpa: 9.32
+
+experience:
+  total_years: 0
+  internships:
+    - company: "Bluestock Fintech"
+      role: "Software Engineering Intern"
+      start: "2025-12"
+      end: "2026-01"
+      technologies:
+        - React
+        - Redux Toolkit
+        - PostgreSQL
+        - Firebase
+        - REST APIs
+        - JWT
+        - bcrypt
+        - Cloudinary
+      highlights:
+        - "Built owner-scoped full-stack company onboarding module with 9 REST APIs"
+        - "Implemented Firebase OTP verification, JWT auth, and bcrypt hashing"
+
+skills:
+  languages:
+    - Java
+    - C
+    - C++
+    - Python
+    - JavaScript
+  web_frameworks:
+    - HTML
+    - CSS
+    - JavaScript
+    - Django
+    - React
+    - Redux Toolkit
+    - REST APIs
+  databases_backend:
+    - SQL
+    - SQL*Plus
+    - PostgreSQL
+    - SQLite
+    - Supabase
+    - Firebase
+    - AWS
+    - Cloudinary
+    - JWT
+  tools_platforms:
+    - Git
+    - GitHub
+    - Unix
+    - Linux
+    - Windows
+    - Keil uVision
+    - OpenMPI
+  security:
+    - WebAuthn
+    - Passkeys
+    - JWT
+    - bcrypt
+    - HMAC
+    - Authentication
+    - OTP
+    - Replay Attack Prevention
+    - Rate Limiting
+    - Audit Trails
+    - Network Presence Validation
+    - Biometric Liveness
+    - Anti-Spoofing
+    - Intrusion Detection
+    - Network Security
+  systems_distributed:
+    - C++
+    - OpenMPI
+    - Parallelization
+    - High-performance file processing
+    - Hashing
+    - xxHash
+    - SQLite caching
+    - IPC
+    - Distributed processing
+    - Linux/Unix
+  networking_cybersecurity:
+    - Python
+    - Scapy
+    - iptables
+    - SMTP
+    - Threading
+    - DDoS detection
+    - Port scan detection
+    - ICMP/UDP flood detection
+    - Packet processing
+    - IP tracking
+    - Automated blocking
+  ai_computer_vision:
+    - Python
+    - MediaPipe
+    - FaceMesh
+    - FaceNet
+    - MTCNN
+    - OpenCV
+    - Cosine similarity
+    - Image recognition
+    - Perceptual hashing
+    - Computer vision
+    - Liveness detection
+
+coursework:
+  - "Data Structures & Algorithms"
+  - "Structured & Object-Oriented Programming"
+  - "Operating Systems"
+  - "Computer Networks"
+  - "Database Management"
+  - "Artificial Intelligence"
+  - "AWS Solutions Architect"
+  - "Computer Architecture & Organisation"
+  - "Blockchain Basics"
+
+leadership:
+  - role: "Operations Head"
+    organization: "Gujarati Literary Association, VIT Chennai"
+    details: "Managed 200+ student body, organized 2-day Garba Night with 1300+ attendees"
+
+achievements:
+  - "2nd Place — Health Techathon (Skin disease detection model)"
+  - "3rd Place — Code for a Cause Competition"
+
+job_families:
+  tier_1:
+    - "Software Engineer"
+    - "Software Development Engineer"
+    - "SDE"
+    - "Software Engineer Intern"
+    - "SDE Intern"
+    - "SWE"
+    - "SWE Intern"
+    - "Software Developer"
+    - "Graduate Software Engineer"
+    - "Entry Level Software Engineer"
+  tier_2:
+    - "Backend Engineer"
+    - "Backend Developer"
+    - "Full Stack Engineer"
+    - "Full Stack Developer"
+    - "Platform Engineer"
+    - "Software Engineer - Backend"
+    - "Software Engineer - Platform"
+    - "Cloud Software Engineer"
+  tier_3:
+    - "Security Engineer"
+    - "Cybersecurity Engineer"
+    - "Application Security Engineer"
+    - "Network Security Engineer"
+    - "Security Software Engineer"
+    - "Identity / Authentication Engineer"
+    - "Fraud / Risk Engineering"
+  tier_4:
+    - "Systems Engineer"
+    - "Systems Software Engineer"
+    - "Distributed Systems Engineer"
+    - "Infrastructure Engineer"
+    - "Performance Engineer"
+    - "C++ Engineer"
+    - "Systems Programming Engineer"
+    - "HPC Engineer"
+  tier_5:
+    - "Computer Vision Engineer"
+    - "Computer Vision Intern"
+    - "AI Engineer"
+    - "AI Software Engineer"
+    - "Machine Learning Engineer"
+    - "ML Engineer Intern"
+    - "AI/ML Intern"
+    - "Applied AI Engineer"
+
+locations:
+  preferred:
+    - "Bangalore"
+    - "Bengaluru"
+    - "Hyderabad"
+    - "Chennai"
+    - "Pune"
+    - "Gurgaon"
+    - "Gurugram"
+    - "Noida"
+    - "Mumbai"
+    - "Delhi NCR"
+    - "Remote"
+    - "India"
+
+experience_filters:
+  preferred_max_years: 0
+  accept_max_years: 0
+  reject_keywords:
+    - "Senior"
+    - "Staff"
+    - "Lead"
+    - "Principal"
+    - "Manager"
+    - "Architect"
+    - "5+ years"
+    - "6+ years"
+    - "7+ years"
+    - "8+ years"
+    - "10+ years"

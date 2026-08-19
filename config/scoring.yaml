@@ -1,0 +1,23 @@
+weights:
+  role_relevance: 20
+  technical_skill_match: 20
+  experience_compatibility: 15
+  graduation_eligibility: 10
+  project_domain_relevance: 10
+  location: 5
+  freshness: 10
+  company_preference: 5
+  academic_eligibility: 3
+  internship_experience: 2
+
+thresholds:
+  excellent: 90
+  strong: 80
+  possible: 65
+  low: 50
+
+penalties:
+  missing_required_skill: 15
+  excessive_experience_years: 40
+  wrong_graduation_year: 30
+  cgpa_below_cutoff: 50

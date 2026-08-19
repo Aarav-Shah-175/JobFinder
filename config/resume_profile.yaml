@@ -1,0 +1,94 @@
+projects:
+  - name: "Secure Presence Attendance System"
+    technologies:
+      - Django
+      - WebAuthn
+      - Passkeys
+      - MediaPipe
+      - FaceNet
+      - MTCNN
+      - HMAC
+      - Network validation
+      - Rate limiting
+      - Audit trails
+    domain_tags:
+      - Cybersecurity
+      - Authentication
+      - Identity verification
+      - Biometric systems
+      - Computer vision
+      - Anti-spoofing
+      - Replay attack prevention
+      - Web security
+      - Backend engineering
+      - Real-time systems
+    signals:
+      - "Hardware-bound authentication"
+      - "WebAuthn passkeys"
+      - "Biometric liveness"
+      - "MediaPipe FaceMesh"
+      - "FaceNet MTCNN"
+      - "HMAC nonces"
+      - "Subnet validation"
+
+  - name: "Duplicate File Finder"
+    technologies:
+      - C++
+      - OpenMPI
+      - xxHash
+      - Electron
+      - OpenCV
+      - SQLite
+      - IPC
+    domain_tags:
+      - Distributed computing
+      - Parallel computing
+      - Systems programming
+      - Performance engineering
+      - File systems
+      - C++
+      - High-performance computing
+      - Hashing
+      - Caching
+      - Desktop applications
+    signals:
+      - "Multi-stage detection pipeline"
+      - "xxHash byte verification"
+      - "OpenMPI parallelization"
+      - "50x speedup"
+      - "Perceptual hashing"
+      - "SQLite metadata caching"
+
+  - name: "Network Intrusion Detection and Prevention System"
+    technologies:
+      - Python
+      - Scapy
+      - iptables
+      - SMTP
+      - Threading
+      - JSON
+    domain_tags:
+      - Cybersecurity
+      - Network Security
+      - Intrusion Detection
+      - Intrusion Prevention
+      - Networking
+      - Threat Detection
+      - DDoS Detection
+      - Traffic Analysis
+      - Incident Response
+    signals:
+      - "10000+ packets/sec"
+      - "DDoS detection"
+      - "Port scan detection"
+      - "ICMP UDP flood detection"
+      - "Automated blocking"
+      - "Packet processing"
+
+achievements:
+  - title: "2nd Place - Health Techathon"
+    details: "Python-based skin disease detection model"
+    skills: ["Python", "Image Recognition", "Computer Vision", "AI"]
+  - title: "3rd Place - Code for a Cause"
+    details: "Optimization and system design challenge"
+    skills: ["Python", "Java", "Optimization", "System Design", "DSA"]

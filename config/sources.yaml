@@ -1,0 +1,22 @@
+sources:
+  greenhouse:
+    enabled: true
+    rate_limit_delay_seconds: 1.0
+  lever:
+    enabled: true
+    rate_limit_delay_seconds: 1.0
+  ashby:
+    enabled: true
+    rate_limit_delay_seconds: 1.0
+  rss:
+    enabled: true
+    rate_limit_delay_seconds: 0.5
+    feeds:
+      - name: "We Work Remotely - Software Engineering"
+        url: "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss"
+      - name: "RemoteOK Software Engineering"
+        url: "https://remoteok.com/remote-jobs.rss"
+      - name: "StackOverflow Public / Remote Tech RSS"
+        url: "https://jobspresso.co/category/software-dev/feed/"
+  company_careers:
+    enabled: true

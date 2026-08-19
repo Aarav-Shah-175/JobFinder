@@ -1,0 +1,39 @@
+name: Daily Personal Job Finder
+
+on:
+  schedule:
+    # Runs daily at 02:00 UTC (07:30 AM IST)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  job-discovery:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Job Finder Pipeline
+        run: |
+          python src/main.py --config config
+
+      - name: Commit & Push persistent database changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json data/applications.csv reports/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: daily job discovery report [skip ci]" && git push)
