@@ -1,0 +1,29 @@
+# JOB FINDER — 2026-09-02
+
+**Candidate**: Aarav (B.Tech CSE, VIT Chennai '27 | CGPA: 9.32)
+**Raw jobs discovered**: 1292
+**Unique jobs**: 1160
+**New jobs today**: 20
+**Relevant jobs (>=65)**: 1
+**Top matches (>=80)**: 0
+
+========================================
+
+## 🔥 TOP APPLICATIONS
+
+No new 🔥 Top Application matches found today.
+
+## 🟡 OTHER RELEVANT JOBS
+
+- **Quill (YC W20) Is Hiring a Fullstack SWE** | [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704) | `75.5/100` | Remote
+
+========================================
+
+## 📊 SOURCE STATUS DIAGNOSTIC
+
+- **Greenhouse**: ✓ 1146 jobs discovered
+- **Lever**: ✓ 0 jobs discovered
+- **Ashby**: ✓ 0 jobs discovered
+- **Workable**: ✓ 0 jobs discovered
+- **HackerNews**: ✓ 25 jobs discovered
+- **RSS**: ✓ 121 jobs discovered
